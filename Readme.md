@@ -39,9 +39,10 @@ JWT_SECRET="your_secret_key"
 Run database migrations:
 npx prisma migrate dev --name init
 Start the backend server:
-npm run dev
+cd src
+npx nodemon index.ts
 The API will be available at http://localhost:5001/api.
-3. Frontend Setup
+4. Frontend Setup
 Navigate to the frontend folder:
 cd ..
 cd frontend
