@@ -3,6 +3,10 @@ Overview
 
 This is a full-stack authentication application built using React, TypeScript, Express.js, Prisma ORM, and PostgreSQL. It includes user login with JWT authentication, React Hook Form for form handling, and Zod for validation.
 
+Dummy Credentials:
+email:user@gmail.com
+password: password@123
+
 Tech Stack
 
 Frontend:
