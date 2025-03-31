@@ -56,24 +56,7 @@ Open the app in your browser at http://localhost:5173.
 
 Project Structure
 
-auth-app/
-│── backend/       # Backend (Express + Prisma)
-│   ├── src/
-│   │   ├── controllers/ # Login & Register logic
-│   │   ├── routes/      # API routes
-│   │   ├── index.ts     # Server entry point
-│   ├── prisma/          # Database migrations
-│   ├── .env
-│   ├── package.json
-│── frontend/       # Frontend (React + TypeScript)
-│   ├── src/
-│   │   ├── pages/     # Login, Dashboard  
-│   │   ├── App.tsx     # Routes configuration
-│   │   ├── main.tsx    # React entry point
-│   ├── public/
-│   ├── .env
-│   ├── package.json
-│── README.md
+<img width="377" alt="Screenshot 2025-03-31 at 5 39 48 PM" src="https://github.com/user-attachments/assets/39959e2d-ba3a-4893-adef-e67ad529e71e" />
 
 
 How It Works
